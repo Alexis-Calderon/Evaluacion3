@@ -1,0 +1,492 @@
+[
+    {
+        "id": 1,
+        "title": "Fjallraven - Mochila Foldsack No. 1, Para Portátiles de Hasta 15\"",
+        "price": 109000,
+        "description": "Tu mochila perfecta para el uso diario y caminatas en el bosque. Guarda tu portátil (de hasta 15 pulgadas) en la funda acolchada y tus objetos diarios.",
+        "category": "ropa de hombre",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        },
+        "opinions": [
+            {
+                "username": "AnaG",
+                "opinion": "Excelente mochila para el día a día. Muy resistente y con espacio suficiente.",
+                "rating": 5
+            },
+            {
+                "username": "LuisF",
+                "opinion": "El diseño es bonito pero me hubiera gustado que fuera un poco más grande.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Camisetas Casual Premium Slim Fit para Hombre",
+        "price": 22000,
+        "description": "Estilo ajustado, manga larga raglán en contraste, tapeta de tres botones, tela ligera y suave para una experiencia cómoda y transpirable. Camisetas sólidas cosidas con cuello redondo, hechas para durar y tener un gran ajuste para la moda casual y los fanáticos del béisbol. El escote redondo tipo Henley incluye una tapeta de tres botones.",
+        "category": "ropa de hombre",
+        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        },
+        "opinions": [
+            {
+                "username": "SergioC",
+                "opinion": "La camiseta es cómoda y de buena calidad. Perfecta para ocasiones casuales.",
+                "rating": 5
+            },
+            {
+                "username": "MartaD",
+                "opinion": "El material es suave y fresco, pero las mangas me resultaron algo largas.",
+                "rating": 4
+            },
+            {
+                "username": "FelipeH",
+                "opinion": "Buena relación precio/calidad. Volvería a comprar.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Chaqueta de Algodón para Hombre",
+        "price": 55000,
+        "description": "Grandes chaquetas para primavera/otoño/invierno, adecuadas para muchas ocasiones como trabajo, senderismo, camping, escalada, ciclismo, viajes u otras actividades al aire libre. Buena opción de regalo para ti o tu familiar. Un cariñoso regalo para padre, esposo o hijo en Acción de Gracias o Navidad.",
+        "category": "ropa de hombre",
+        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        },
+        "opinions": [
+            {
+                "username": "PaulaR",
+                "opinion": "La chaqueta es abrigada y de buen material, pero el tallaje me pareció un poco pequeño.",
+                "rating": 4
+            },
+            {
+                "username": "DanielS",
+                "opinion": "Muy útil para mis salidas al campo. Recomendado.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Pantalón Casual Slim Fit para Hombre",
+        "price": 15000,
+        "description": "El color podría ser ligeramente diferente entre la pantalla y en la práctica. / Ten en cuenta que la complexión corporal varía por persona, por lo tanto, la información detallada de tallas se debe revisar en la descripción del producto.",
+        "category": "ropa de hombre",
+        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        },
+        "opinions": [
+            {
+                "username": "ClaudioT",
+                "opinion": "El pantalón tiene un buen ajuste, pero el color es algo distinto a las fotos.",
+                "rating": 3
+            },
+            {
+                "username": "RicardoZ",
+                "opinion": "Esperaba mejor calidad en la tela.",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Pulsera Cadena Dragón Oro y Plata John Hardy para Mujer",
+        "price": 10000,
+        "description": "De nuestra colección Legends, el Naga se inspiró en el dragón de agua mitológico que protege la perla del océano. Usa el dragón hacia adentro para recibir amor y abundancia, o hacia afuera para protección.",
+        "category": "joyería",
+        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        },
+        "opinions": [
+            {
+                "username": "CamilaV",
+                "opinion": "La pulsera es hermosa, ideal para un regalo especial.",
+                "rating": 5
+            },
+            {
+                "username": "SoniaP",
+                "opinion": "Llegó rápido y en excelente estado. Muy satisfecha.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Micropavé Petite de Oro Macizo",
+        "price": 33000,
+        "description": "Satisfacción garantizada. Devolución o cambio de cualquier pedido dentro de los 30 días. Diseñado y vendido por Hafeez Center en Estados Unidos. Satisfacción garantizada.",
+        "category": "joyería",
+        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        },
+        "opinions": [
+            {
+                "username": "AndrésL",
+                "opinion": "Bonita joya, pero esperaba que brillara más.",
+                "rating": 3
+            },
+            {
+                "username": "EstelaU",
+                "opinion": "El empaque es elegante. Ideal para un detalle sencillo.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Anillo Princesa Chapado en Oro Blanco",
+        "price": 9000,
+        "description": "Clásico anillo de compromiso, promesa de diamante creado para ella. Regalos para consentir a tu amor en compromiso, boda, aniversario, San Valentín...",
+        "category": "joyería",
+        "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        },
+        "opinions": [
+            {
+                "username": "LorenaB",
+                "opinion": "El anillo es delicado y bonito. Mi pareja quedó encantada.",
+                "rating": 5
+            },
+            {
+                "username": "CarolinaJ",
+                "opinion": "Por el precio está bien, aunque no parece muy duradero.",
+                "rating": 3
+            },
+            {
+                "username": "RaúlN",
+                "opinion": "El tamaño es perfecto y la entrega fue rápida.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Pierced Owl Túneles Doble de Acero Inoxidable Baño Oro Rosa",
+        "price": 10000,
+        "description": "Túneles dobles baño oro rosa. Hechos de acero inoxidable 316L.",
+        "category": "joyería",
+        "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        },
+        "opinions": [
+            {
+                "username": "MiguelS",
+                "opinion": "El color oro rosa es muy lindo, pero uno de los túneles venía rayado.",
+                "rating": 2
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "WD Disco Duro Externo Portátil 2TB - USB 3.0",
+        "price": 21000,
+        "description": "Compatibilidad USB 3.0 y USB 2.0. Transferencias rápidas de datos. Mejora el rendimiento de tu PC. Alta capacidad; Formateado en NTFS para Windows 10, 8.1, 7; Puede requerir reformateo para otros sistemas operativos.",
+        "category": "electrónica",
+        "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        },
+        "opinions": [
+            {
+                "username": "FernandoM",
+                "opinion": "Disco duro rápido y confiable. Lo uso para mis respaldos.",
+                "rating": 5
+            },
+            {
+                "username": "PatricioA",
+                "opinion": "Funciona bien en Windows 10, pero tuve que formatearlo para Mac.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "SanDisk SSD PLUS 1TB SSD Interno - SATA III 6 Gb/s",
+        "price": 45000,
+        "description": "Actualización fácil para un arranque, apagado y carga de aplicaciones más rápido (comparado con discos duros SATA 2.5” 5400 RPM). Equilibrio perfecto entre rendimiento y confiabilidad. Velocidades de lectura/escritura de hasta 535MB/s/450MB/s.",
+        "category": "electrónica",
+        "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        },
+        "opinions": [
+            {
+                "username": "ValeriaC",
+                "opinion": "El SSD hizo que mi notebook arrancara mucho más rápido.",
+                "rating": 5
+            },
+            {
+                "username": "PedroE",
+                "opinion": "Por el precio, esperaba un poco más de velocidad.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Silicon Power SSD 256GB 3D NAND A55 SLC Cache SATA III 2.5",
+        "price": 27000,
+        "description": "Memoria flash 3D NAND para altas velocidades de transferencia. Tecnología SLC Cache avanzada para mayor rendimiento y vida útil. Diseño delgado 7mm adecuado para ultrabooks. Soporta comandos TRIM, Garbage Collection, RAID y ECC.",
+        "category": "electrónica",
+        "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        },
+        "opinions": [
+            {
+                "username": "SofíaG",
+                "opinion": "Perfecto para actualizar una laptop antigua. Muy contenta.",
+                "rating": 5
+            },
+            {
+                "username": "CristianW",
+                "opinion": "La instalación fue sencilla y el rendimiento excelente.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "WD Disco Duro 4TB Gaming para Playstation 4 Externo Portátil",
+        "price": 32000,
+        "description": "Expande tu experiencia de juego en PS4, juega en cualquier parte, configuración rápida y sencilla. Diseño elegante con alta capacidad, garantía limitada de 3 años.",
+        "category": "electrónica",
+        "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        },
+        "opinions": [
+            {
+                "username": "DiegoY",
+                "opinion": "Ideal para expandir el almacenamiento de mi PS4. Fácil de instalar.",
+                "rating": 5
+            },
+            {
+                "username": "RenatoK",
+                "opinion": "Buen precio por la capacidad. Muy recomendable.",
+                "rating": 4
+            },
+            {
+                "username": "GinaT",
+                "opinion": "Funciona perfecto, aunque el cable podría ser más largo.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Monitor Acer SB220Q bi 21.5\" Full HD (1920 x 1080) IPS Ultra-Delgado",
+        "price": 120000,
+        "description": "Monitor IPS de 21.5 pulgadas Full HD (1920 x 1080) y tecnología Radeon FreeSync. No compatible con montaje VESA. Diseño sin marco, ultra delgado, tiempo de respuesta 4ms. Ángulo de visión horizontal y vertical 178°.",
+        "category": "electrónica",
+        "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 250
+        },
+        "opinions": [
+            {
+                "username": "VivianaM",
+                "opinion": "La imagen es nítida y el diseño muy elegante. Cumple con lo prometido.",
+                "rating": 5
+            },
+            {
+                "username": "HernánR",
+                "opinion": "No es compatible con VESA, eso me complicó el montaje.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Samsung Monitor Curvo Gaming 49\" CHG90 144Hz QLED Ultrawide",
+        "price": 999000,
+        "description": "Monitor Gaming curvo super ultraancho de 49\" 32:9 con doble pantalla de 27\" lado a lado, tecnología Quantum Dot (QLED), HDR y calibración de fábrica para colores realistas, tasa de refresco 144Hz y tiempo de respuesta de 1ms para eliminar desenfoque de movimiento.",
+        "category": "electrónica",
+        "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "rating": {
+            "rate": 2.2,
+            "count": 140
+        },
+        "opinions": [
+            {
+                "username": "GabrielJ",
+                "opinion": "Experiencia de juego increíble, pero ocupa mucho espacio en el escritorio.",
+                "rating": 4
+            },
+            {
+                "username": "NataliaZ",
+                "opinion": "Los colores y la fluidez son espectaculares. Vale la inversión.",
+                "rating": 5
+            },
+            {
+                "username": "OmarV",
+                "opinion": "No es fácil de transportar por el tamaño, pero la pantalla es única.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Chaqueta 3 en 1 para Mujer BIYLACLESEN Snowboard Invierno",
+        "price": 56000,
+        "description": "Tallas estándar US. Material: 100% poliéster; Forro desmontable de felpa cálida. Diseño 3 en 1 para más comodidad, puedes separar la chaqueta y el forro según sea necesario. Capucha y puños ajustables.",
+        "category": "ropa de mujer",
+        "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        },
+        "opinions": [
+            {
+                "username": "PatyS",
+                "opinion": "La chaqueta es muy versátil y abrigadora. Recomendada para el invierno.",
+                "rating": 5
+            },
+            {
+                "username": "FernandaQ",
+                "opinion": "Me encantó el color y los acabados. El forro es muy suave.",
+                "rating": 5
+            },
+            {
+                "username": "LauraV",
+                "opinion": "Las mangas me quedaron un poco cortas, pero por lo demás es genial.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Lock and Love Chaqueta Mujer Moto Biker con Capucha Desmontable",
+        "price": 29000,
+        "description": "100% poliuretano (exterior), 100% poliéster (forro), 75% poliéster 25% algodón (suéter). Material sintético para estilo y comodidad. 2 bolsillos delanteros, chaqueta de moto con capucha de mezclilla desmontable.",
+        "category": "ropa de mujer",
+        "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 340
+        },
+        "opinions": [
+            {
+                "username": "JessicaN",
+                "opinion": "Perfecta para las salidas en moto. Muy cómoda.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Chaqueta Impermeable Mujer, Cortavientos Rayada",
+        "price": 39000,
+        "description": "Ligera, perfecta para viajes o uso casual. Manga larga con capucha, cintura ajustable. Cierre de botones y cremallera. Dos bolsillos laterales de buen tamaño. Forro de algodón en la capucha.",
+        "category": "ropa de mujer",
+        "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "rating": {
+            "rate": 3.8,
+            "count": 679
+        },
+        "opinions": [
+            {
+                "username": "EvelynA",
+                "opinion": "La chaqueta cumple su función, ligera y resistente al agua.",
+                "rating": 4
+            },
+            {
+                "username": "TamaraM",
+                "opinion": "El diseño de rayas es muy bonito. Quedé satisfecha.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Camiseta Mujer Cuello Barco Manga Corta MBJ",
+        "price": 9000,
+        "description": "95% rayón, 5% spandex. Hecho en EE.UU. o importado. No usar blanqueador. Tela ligera y elástica para mayor comodidad. Ribeteado en mangas y cuello.",
+        "category": "ropa de mujer",
+        "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 130
+        },
+        "opinions": [
+            {
+                "username": "CatalinaF",
+                "opinion": "La camiseta es cómoda y elástica. Buen producto.",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Camiseta Mujer Manga Corta Opna",
+        "price": 7000,
+        "description": "100% poliéster, lavable a máquina, tejido liviano, amplio y transpirable con tela que ayuda a alejar la humedad. Cuello en V y ajuste entallado para silueta femenina.",
+        "category": "ropa de mujer",
+        "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        },
+        "opinions": [
+            {
+                "username": "PaulinaL",
+                "opinion": "Perfecta para el gimnasio, se seca rápido y es fresca.",
+                "rating": 5
+            },
+            {
+                "username": "SoledadG",
+                "opinion": "El color no era igual al de la foto, pero la calidad es buena.",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "DANVOUY Camiseta Casual de Algodón para Mujer",
+        "price": 12000,
+        "description": "95% algodón, 5% spandex. Características: Casual, manga corta, estampado con letras, cuello en V, telas suaves y con algo de elasticidad. Ocasiones: Casual, oficina, playa, escuela, hogar, calle. Temporadas: primavera, verano, otoño, invierno.",
+        "category": "ropa de mujer",
+        "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "rating": {
+            "rate": 3.6,
+            "count": 145
+        },
+        "opinions": [
+            {
+                "username": "RominaX",
+                "opinion": "Me encanta el diseño y la tela es suave. Muy cómoda para el día a día.",
+                "rating": 5
+            },
+            {
+                "username": "IvánP",
+                "opinion": "Le regalé esta camiseta a mi esposa y le encantó. Excelente compra.",
+                "rating": 5
+            }
+        ]
+    }
+]
